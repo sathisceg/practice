@@ -1,0 +1,57 @@
+Important Topic for OOPS
+
+Class and Objects.
+Feature/characteristics of OOPs.
+Compile time and Runtime polymorphism.
+Variable scopes.
+static (variables, Functions, Objects).
+Inheritence (Type and Mode)
+Virtual (Functions and Class)
+Abstract class and Interface.
+Friend function and Friend class. ///   			
+Call by value, refrence.
+This pointer
+Abstraction
+Exception Handling
+Constructor and Destructor.
+Copy constructor
+copy assignemnt operator
+Refrences variable
+Const (variable, Function, Arguement)
+Overloading (Function, Constructor, Operator)
+Function overriding and Inline function.
+
+
+=============
+
+
+classes
+multiple-inheritance-in-c
+pure-virtual-destructor-c
+virtual-destructor
+
+============
+
+make class non inheritable
+
+
+
+1. Threads In C++ An Introduction
+2. 5 Different Types To Create Threads In C++11
+3. Join and Detach with Joinable | Threading in C++11
+4. Mutex in C++ Threading
+5. Mutex try_lock member function
+6. std::try_lock In C++11 Threading
+7. Timed Mutex In C++ Threading
+8. Recursive Mutex In C++ Threading
+9. Lock Guard in C++ Threading
+10. Unique Lock In C++ Threading
+11. Condition Variable And Its Usage In C++ Threading
+12. Dead Lock In C++ Threading
+13. Thread OR Process Synchronization In C++ Threading
+14. std lock In C++ Threading
+15. std::promise and std::future In C++ Threading
+16. std::async - Create A Task In C++ Threading
+producer
+sleep
+
